@@ -22,7 +22,8 @@
 <div align="center">
 
    ## The course
-   The course consists of learning python language
+   The course consists of learning python language <br />
+   BeautifulSoup (bs4)
 
    ## Contributors
    | <b> <a href="https://github.com/dam277">Damien Loup</a> </b>       |
