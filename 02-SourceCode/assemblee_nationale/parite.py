@@ -5,6 +5,7 @@ import argparse
 import analysis.csv as c_an
 import analysis.xml as x_an
 
+
 def parse_arguments():
     parser = argparse.ArgumentParser()
     parser.add_argument("-e", "--extension", help="""Type of file to analyse. Is it csv or xml ?""")
